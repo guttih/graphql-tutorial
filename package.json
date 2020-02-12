@@ -21,6 +21,6 @@
     "typescript": "^3.7.5"
   },
   "scripts": {
-    "start": "ts-node-dev --respan src/index.ts"
+    "start": "ts-node-dev --respawn src/index.ts"
   }
 }
